@@ -1,0 +1,8 @@
+{
+  "headers":{
+    "/*":{
+      "X-Author":"torolund",
+      "Access-Control-Allow-Origin":"*"
+    }
+  }
+}
